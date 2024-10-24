@@ -1,6 +1,6 @@
 <h1 align="center">AgroAssist - Modernize Farming Practices <br /></h1>  
 <p align="center">
-<!--   <img src="https://user-images.githubusercontent.com/49508237/104348350-a5485a80-5527-11eb-854b-b2477bfeb96d.png?" width="500" > -->
+[Live Demo on Vercel](https://agrotest-pi.vercel.app/)
 </p>
 
 ## 🌱Agricultural Web Application  with Reactjs + Expressjs + Nodejs + MongoDB (MERN)💻
