@@ -2,6 +2,12 @@
 <p align="center">
 [Live Demo on Vercel](https://agrotest-pi.vercel.app/)
 </p>
+<p align="center">
+  <img src="https://github.com/rithiknagar/Agroassist/blob/main/Screenshot%202024-11-09%20183519.png?raw=true" width="500" >
+</p>
+
+
+
 
 ## 🌱Agricultural Web Application  with Reactjs + Expressjs + Nodejs + MongoDB (MERN)💻
 
